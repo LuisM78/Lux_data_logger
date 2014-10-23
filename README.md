@@ -21,11 +21,11 @@ Then the processing sketch saves the data in txt file, separated by commas and i
 The txt file is created in the same directory where you have copied your processing sketch.
 
 
-There are two version, one with a fixed data name and another that makes a name
-according to the date. 
+There are two data naming versions, one with a fixed data name and another that makes a name according to the date. 
 
 ## **This is a work in progress.**
 
+When using hte codes, remember to match the Arduino code for 1 sensor with the Processing code for 1 sensor, else it wont work because the checksums will be different. Like wise, for the 2 sensors. 
 
 ## Important
 
