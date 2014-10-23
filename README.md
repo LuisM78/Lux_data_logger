@@ -25,7 +25,12 @@ There are two data naming versions, one with a fixed data name and another that 
 
 ## **This is a work in progress.**
 
-When using hte codes, remember to match the Arduino code for 1 sensor with the Processing code for 1 sensor, else it wont work because the checksums will be different. Like wise, for the 2 sensors. 
+When using the codes, remember to match the Arduino code for 1 sensor with the Processing code for 1 sensor, else it wont work because the checksums will be different. Like wise, for the 2 sensors. 
+E.g. LuxMeter3_reads1_sensors_WDT.ino
+     Saving_Lux_data_4th_version_1meters.pde
+
+
+Also the SCL and SDA ports for Arduino Uno and Mega are different (see picture for connections for Arduino Mega).
 
 ## Important
 
