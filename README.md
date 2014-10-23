@@ -48,6 +48,6 @@ You will need the following libraries.
 * Adafruit TSL2561_U.h -  The new libraries, else it wont work.
 * avr/wdt.h
 
-
+Written by:  LuisM78.
 
 
